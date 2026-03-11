@@ -99,8 +99,8 @@ Outliers are inspected to identify extreme values that may affect analysis.
 ## Project Structure
 project-folder/
 │
-├── mtcars_analysis.ipynb
-├── Mtcars.csv
-└── README.md
+├── MTCARS.ipynb
+├──  README.md
+└──Mtcars.csv
 👤 Author
 Okereke Chinedu
